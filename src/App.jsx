@@ -18,7 +18,7 @@ function App() {
               <Image 
                 borderRadius='full'
                 boxSize='350px'
-                src="../public/buckethat.jpg" 
+                src="https://tonyjung78.github.io/tony_website/buckethat.jpg" 
                 alt="selfie"/>
               <Center w='850px'>
                 <Text color="teal" fontSize='20px'>
