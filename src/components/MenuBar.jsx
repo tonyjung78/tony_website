@@ -7,7 +7,7 @@ function MenuBar(props) {
         <Box>
             <Link to="/">
             <Text fontSize='25px' color='teal' as='b'>
-                Tony's Website
+                Tony Jung
             </Text>
             </Link>
         </Box>
