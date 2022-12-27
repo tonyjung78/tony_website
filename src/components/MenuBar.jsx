@@ -18,6 +18,11 @@ function MenuBar(props) {
                     Resume
                 </Text>
             </Link>
+            <Link to="/project">
+                <Text color='teal' as='b' fontSize='16px'>
+                    Projects
+                </Text>
+            </Link>
             <Link to="/contact">
                 <Button colorScheme='teal' variant='outline'>
                     Contact Me!
